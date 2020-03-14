@@ -26,3 +26,19 @@ Steps to delete user account from Application
   iv. Application asks user to confirm account deletion
 
   v. Application calls to application database to delete user account
+
+3. Web server submits the data to the web application to verify changes
+
+  i. Web server submits information from application to application database
+
+  ii. User receives a notice that the specified account was deleted
+
+4. Confirmation of deleted Account
+
+  i. User browses to login URL page
+
+  ii. User tries to login with deleted account credentials
+
+  iii. Webpage replies with message saying account is no longer active in database
+
+  iv. User is prompted to create new account to continue using application 
