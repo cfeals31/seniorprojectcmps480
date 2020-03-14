@@ -1,3 +1,8 @@
 ## Use Case - Deleting an Account from Application
 
 This is a document that explain how a user can delete their account from the Application.
+
+# Use Case 2 - Delete account
+Steps to delete user account from Application
+
+1. 
