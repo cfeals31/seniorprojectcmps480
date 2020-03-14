@@ -1,8 +1,12 @@
-## Use Case - Deleting an Account from Application
+# Use Case - Deleting an Account from Application
 
 This is a document that explain how a user can delete their account from the Application.
 
-# Use Case 2 - Delete account
+## Use Case 2 - Delete account
 Steps to delete user account from Application
 
-1. 
+1. A user no longer want's their account to be active.
+  i. User navigates to application URL.
+  ii. Within URL, user finds the section for account preferences
+  iii. User then clicks on the Account Management section of preferences
+  iv. User clicks Delete User Account
